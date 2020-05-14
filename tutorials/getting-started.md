@@ -6,8 +6,7 @@ description: A Hello World example for Rain of Stages
 
 ## First Steps
 
-Before you can begin to use Rain of Stages you must first prepare the development environment you need to use it.  
-
+Before you can begin to use Rain of Stages you must first prepare the development environment you need to use it.
 
 First thing to do is acquire a Unity Hub from Unity Technologies, you can download it from their website.  
 [https://store.unity.com/download?ref=personal](https://store.unity.com/download?ref=personal)
